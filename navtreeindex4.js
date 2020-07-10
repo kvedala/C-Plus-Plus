@@ -1,7 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"functions.html":[7,2,0],
-"functions_func.html":[7,2,1],
 "functions_rela.html":[7,2,3],
 "functions_vars.html":[7,2,2],
 "globals.html":[8,1,0],
@@ -51,10 +49,10 @@ var NAVTREEINDEX4 =
 "globals_vars.html":[8,1,2],
 "index.html":[0],
 "index.html":[],
-"index.html#autotoc_md34":[0,0],
-"index.html#autotoc_md35":[0,1],
-"index.html#autotoc_md36":[0,2],
-"index.html#autotoc_md37":[0,3],
+"index.html#autotoc_md35":[0,0],
+"index.html#autotoc_md36":[0,1],
+"index.html#autotoc_md37":[0,2],
+"index.html#autotoc_md38":[0,3],
 "modules.html":[5],
 "namespacemembers.html":[6,1,0],
 "namespacemembers_func.html":[6,1,1],
