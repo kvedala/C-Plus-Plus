@@ -1,5 +1,7 @@
 var NAVTREEINDEX0 =
 {
+"":[7,0,3,0],
+"":[7,0,4,0],
 "annotated.html":[7,0],
 "classes.html":[7,1],
 "d0/d01/smallest__circle_8cpp.html":[8,0,11,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "d4/d21/least__common__multiple_8cpp.html#a8ba1fc66e4134ab25b2602b323150563":[8,0,9,18,0],
 "d4/d21/least__common__multiple_8cpp.html#aa8d0e241db517813725e721a152e3a25":[8,0,9,18,1],
 "d4/d21/least__common__multiple_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,9,18,2],
-"d4/d32/fibonacci__fast_8cpp.html":[8,0,9,11],
-"d4/d32/fibonacci__fast_8cpp.html#a392fb874e547e582e9c66a08a1f23326":[8,0,9,11,0],
-"d4/d32/fibonacci__fast_8cpp.html#a5712edca101204eca8accdb1e096707f":[8,0,9,11,1]
+"d4/d32/fibonacci__fast_8cpp.html":[8,0,9,11]
 };

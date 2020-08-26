@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[8,0,8,1,3],
+"d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[5,1,5],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[8,0,8,2,1],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[8,0,8,1,1],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[5,1,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a9b2b5da35a6ba8ae203c33739ef0b91d":[8,0,8,3,6],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#aa799b4cec1681219887d89d037cfab50":[8,0,8,3,14],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#ab6171f4db68a5e50ae0f3500a63acd26":[8,0,8,3,7],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,8,3,4],
-"dc/d38/ordinary__least__squares__regressor_8cpp.html#aecef32c2a4f39a3f7398949256d180a6":[8,0,8,3,9],
-"dc/d61/classgraph_1_1_graph.html":[7,0,4,1]
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,8,3,4]
 };

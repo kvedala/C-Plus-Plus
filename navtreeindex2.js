@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"d6/d7a/golden__search__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,10,5,3],
+"d6/d7b/sudoku__solve_8cpp.html":[8,0,0,4],
 "d6/d7b/sudoku__solve_8cpp.html#a4664b23ed7939e3df1c0cb23013eec0c":[8,0,0,4,2],
 "d6/d7b/sudoku__solve_8cpp.html#a80af16e57cfb6aaab2bf1da4c4db3308":[8,0,0,4,0],
 "d6/d7b/sudoku__solve_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,0,4,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX2 =
 "d9/d66/group__machine__learning.html#ga6c606bc85a3e9fd9d010f874ad760336":[8,0,8,1,6],
 "d9/d66/group__machine__learning.html#ga6c606bc85a3e9fd9d010f874ad760336":[5,1,6],
 "d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[8,0,8,2,5],
-"d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[5,1,7],
-"d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[8,0,8,1,3],
-"d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[5,1,5]
+"d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[5,1,7]
 };

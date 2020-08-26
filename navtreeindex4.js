@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#aecef32c2a4f39a3f7398949256d180a6":[8,0,8,3,9],
+"dc/d61/classgraph_1_1_graph.html":[7,0,4,1],
 "dc/d61/classgraph_1_1_graph.html#a34414f67c2e3ea89774839b36b1575f8":[7,0,4,1,0],
 "dc/d61/classgraph_1_1_graph.html#ae2f6992450faa2c3da93edea0818869a":[7,0,4,1,1],
 "dc/d61/classgraph_1_1_graph.html#aee72d7dd4778097a6d852c659de8fe58":[7,0,4,1,2],
@@ -191,8 +193,8 @@ var NAVTREEINDEX4 =
 "df/dc8/successive__approximation_8cpp.html#a79c1d08919ff7780a5d7723172602389":[8,0,10,15,0],
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,10,15,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[8,0,10,15,1],
-"df/dce/namespacegraph.html":[6,0,7],
 "df/dce/namespacegraph.html":[7,0,4],
+"df/dce/namespacegraph.html":[6,0,7],
 "df/dd0/queue__using__two__stacks_8cpp.html":[8,0,2,8],
 "df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[8,0,2,8,1],
 "df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,8,0],
@@ -246,8 +248,6 @@ var NAVTREEINDEX4 =
 "globals_defs.html":[8,1,4],
 "globals_e.html":[8,1,0,5],
 "globals_f.html":[8,1,0,6],
-"globals_func.html":[8,1,1],
 "globals_func.html":[8,1,1,0],
-"globals_func_a.html":[8,1,1,1],
-"globals_func_b.html":[8,1,1,2]
+"globals_func.html":[8,1,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"d4/d32/fibonacci__fast_8cpp.html#a392fb874e547e582e9c66a08a1f23326":[8,0,9,11,0],
+"d4/d32/fibonacci__fast_8cpp.html#a5712edca101204eca8accdb1e096707f":[8,0,9,11,1],
 "d4/d32/fibonacci__fast_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,9,11,2],
 "d4/d39/group__open__addressing.html":[5,0],
 "d4/d3e/n__queens_8cpp.html":[8,0,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "d6/d7a/golden__search__extrema_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,5,4],
 "d6/d7a/golden__search__extrema_8cpp.html#a1aa76a6d5fd4d333f9072beff1dc486b":[8,0,10,5,2],
 "d6/d7a/golden__search__extrema_8cpp.html#a525335710b53cb064ca56b936120431e":[8,0,10,5,0],
-"d6/d7a/golden__search__extrema_8cpp.html#a6d0455dd5c30adda100e95f0423c786e":[8,0,10,5,6],
-"d6/d7a/golden__search__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,10,5,3],
-"d6/d7b/sudoku__solve_8cpp.html":[8,0,0,4]
+"d6/d7a/golden__search__extrema_8cpp.html#a6d0455dd5c30adda100e95f0423c786e":[8,0,10,5,6]
 };
