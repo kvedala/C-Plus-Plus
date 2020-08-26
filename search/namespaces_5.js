@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['machine_5flearning_2541',['machine_learning',['../d8/d77/namespacemachine__learning.html',1,'']]]
+  ['jarvis_2573',['jarvis',['../d5/da7/namespacejarvis.html',1,'']]]
 ];

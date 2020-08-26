@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md39", null ],
-      [ "Features", "index.html#autotoc_md40", null ],
-      [ "Documentation", "index.html#autotoc_md41", null ],
-      [ "Contributions", "index.html#autotoc_md42", null ]
+      [ "Overview", "index.html#autotoc_md40", null ],
+      [ "Features", "index.html#autotoc_md41", null ],
+      [ "Documentation", "index.html#autotoc_md42", null ],
+      [ "Contributions", "index.html#autotoc_md43", null ]
     ] ],
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md4", null ],
@@ -84,6 +84,7 @@ var NAVTREE =
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
@@ -108,10 +109,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d4/d5d/math_2armstrong__number_8cpp.html#ae1a3968e7947464bee7714f6d43b7002",
-"d6/d9d/large__factorial_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97",
-"da/d5a/class_complex.html#a843ce2f85af4c57db9063c86f3cd9607",
-"dd/d1b/structquery.html"
+"d4/d32/fibonacci__fast_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d6/d7b/sudoku__solve_8cpp.html#a4664b23ed7939e3df1c0cb23013eec0c",
+"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485",
+"dc/d61/classgraph_1_1_graph.html#a34414f67c2e3ea89774839b36b1575f8",
+"globals_func_c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
