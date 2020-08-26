@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jarvis_2573',['jarvis',['../d5/da7/namespacejarvis.html',1,'']]]
+  ['heavy_5flight_5fdecomposition_2669',['heavy_light_decomposition',['../db/d6f/namespaceheavy__light__decomposition.html',1,'']]]
 ];

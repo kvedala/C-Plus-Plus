@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xor_2591',['XOR',['../d7/d47/namespace_x_o_r.html',1,'']]]
+  ['range_5fqueries_2680',['range_queries',['../dd/d69/namespacerange__queries.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['linear_5fprobing_2574',['linear_probing',['../d8/d89/namespacelinear__probing.html',1,'']]]
+  ['is_5fgraph_5fbipartite_2670',['is_graph_bipartite',['../de/d83/namespaceis__graph__bipartite.html',1,'']]]
 ];
