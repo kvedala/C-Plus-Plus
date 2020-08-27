@@ -1,11 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"d8/d8a/exponential__search_8cpp.html#a67e9c84b4e2eb30e3c5170eabfbb363d":[8,0,14,1,2],
-"d8/d8a/exponential__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,14,1,1],
-"d8/d95/vector__ops_8hpp.html":[8,0,8,5],
-"d8/d95/vector__ops_8hpp.html#a05b9445c6ab65053b9bf9897a96af82d":[8,0,8,5,6],
-"d8/d95/vector__ops_8hpp.html#a1b42d24ad7bedbfa8e5b59fe96987a44":[8,0,8,5,1],
-"d8/d95/vector__ops_8hpp.html#a2055c2f3a076b3d4146aade5eb35666d":[8,0,8,5,11],
 "d8/d95/vector__ops_8hpp.html#a2a282c162e12f193c58232f26f0fa62d":[8,0,8,5,12],
 "d8/d95/vector__ops_8hpp.html#a4d136cbf20e3126ed9b934ab2d03f18b":[8,0,8,5,21],
 "d8/d95/vector__ops_8hpp.html#a4dd9a9df9f8f05327bcf7b58b0a86576":[8,0,8,5,15],
@@ -101,6 +95,11 @@ var NAVTREEINDEX3 =
 "d9/d49/kohonen__som__trace_8cpp.html#a9ab8c79ffb674a63f151f282faeb723b":[8,0,8,2,9],
 "d9/d49/kohonen__som__trace_8cpp.html#ab47fb569e63648bd76e7edfdacc02dbd":[8,0,8,2,10],
 "d9/d49/kohonen__som__trace_8cpp.html#acc6a28f40512dbda75ab1a3969248898":[8,0,8,2,3],
+"d9/d49/structdata__structures_1_1_node.html":[7,0,1,0],
+"d9/d49/structdata__structures_1_1_node.html#a54a6777e72b639c3ee6446a541db8e78":[7,0,1,0,0],
+"d9/d49/structdata__structures_1_1_node.html#a6b973b0bded99b0c0bd84e887bf8c731":[7,0,1,0,3],
+"d9/d49/structdata__structures_1_1_node.html#ac75aa86a598357c5c882ec6a1174aa68":[7,0,1,0,2],
+"d9/d49/structdata__structures_1_1_node.html#ac916d833aad2b9c41f01a92db2f8c48e":[7,0,1,0,1],
 "d9/d5a/structgeometry_1_1jarvis_1_1_point.html":[7,0,3,0,1],
 "d9/d5a/structgeometry_1_1jarvis_1_1_point.html#a6c52f5bd4f7360d2d1db0bf6537a10e0":[7,0,3,0,1,1],
 "d9/d5a/structgeometry_1_1jarvis_1_1_point.html#af14ad1652ac763c92e5c79a86796d044":[7,0,3,0,1,0],
@@ -121,8 +120,8 @@ var NAVTREEINDEX3 =
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[5,1,5],
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[8,0,8,1,3],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[5,1,4],
-"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[8,0,8,1,1],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[8,0,8,2,1],
+"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[8,0,8,1,1],
 "d9/d69/median__search_8cpp.html":[8,0,14,8],
 "d9/d69/median__search_8cpp.html#a868847218f694e78bf433a0ff7648bae":[8,0,14,8,1],
 "d9/d69/median__search_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,14,8,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX3 =
 "da/df2/durand__kerner__roots_8cpp.html#a0283886819c7c140a023582b7269e2d0":[8,0,10,2,8],
 "da/df2/durand__kerner__roots_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,2,7],
 "da/df2/durand__kerner__roots_8cpp.html#a212979f5fc9dcf0a420e90b9b21d780a":[8,0,10,2,1],
-"da/df2/durand__kerner__roots_8cpp.html#a3bada3e58ad8d1b00918db2ffe83a740":[8,0,10,2,3]
+"da/df2/durand__kerner__roots_8cpp.html#a3bada3e58ad8d1b00918db2ffe83a740":[8,0,10,2,3],
+"da/df2/durand__kerner__roots_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,2,5]
 };
