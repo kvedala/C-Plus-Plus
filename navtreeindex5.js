@@ -1,5 +1,15 @@
 var NAVTREEINDEX5 =
 {
+"dd/da8/pigeonhole__sort_8cpp.html#a34b8683a2b429de5cce57e6d733ec817":[8,0,15,8,2],
+"dd/da8/pigeonhole__sort_8cpp.html#a458410412185a5f09199deaff7157a8d":[8,0,15,8,3],
+"dd/da8/pigeonhole__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,8,0],
+"dd/da8/pigeonhole__sort_8cpp.html#af31ec5409537703d9c8a47350386b32a":[8,0,15,8,4],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html":[7,0,4,0,0],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a275227d01fbecdcf2f890b034fcea655":[7,0,4,0,0,5],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a477bf401cab737bb313f687b08fff082":[7,0,4,0,0,0],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a70dea3a7ae9738067e6b84abc192e429":[7,0,4,0,0,3],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9b0c6400693a5cfff971f768dd5ca5ca":[7,0,4,0,0,2],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9d10768f927baa8a4d4a5ffce295b6b6":[7,0,4,0,0,6],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#ad8c10df34357b2cd865c81e0c4f0bd8c":[7,0,4,0,0,1],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef":[7,0,4,0,0,4],
 "de/d0d/fibonacci__search_8cpp.html":[8,0,14,2],
@@ -68,6 +78,7 @@ var NAVTREEINDEX5 =
 "df/d39/interpolation__search2_8cpp.html":[8,0,14,5],
 "df/d39/interpolation__search2_8cpp.html#aa3ec659ec8394d186c761df81ad1f629":[8,0,14,5,0],
 "df/d39/interpolation__search2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,14,5,1],
+"df/d44/namespacen__queens__all__solutions.html":[6,0,17],
 "df/d82/breadth__first__search_8cpp.html":[8,0,5,0],
 "df/d82/breadth__first__search_8cpp.html#a59b4441a0e447469e9a4f61c87f33102":[8,0,5,0,1],
 "df/d82/breadth__first__search_8cpp.html#a618dce14b4883c20aace1d743d3a3f60":[8,0,5,0,2],
@@ -78,8 +89,8 @@ var NAVTREEINDEX5 =
 "df/dc8/successive__approximation_8cpp.html#a79c1d08919ff7780a5d7723172602389":[8,0,10,15,0],
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,10,15,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[8,0,10,15,1],
-"df/dce/namespacegraph.html":[7,0,4],
 "df/dce/namespacegraph.html":[6,0,8],
+"df/dce/namespacegraph.html":[7,0,4],
 "df/dd0/queue__using__two__stacks_8cpp.html":[8,0,2,8],
 "df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[8,0,2,8,1],
 "df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,8,0],
@@ -209,10 +220,5 @@ var NAVTREEINDEX5 =
 "namespacemembers_func.html":[6,1,1],
 "namespacemembers_vars.html":[6,1,2],
 "namespaces.html":[6,0],
-"pages.html":[],
-"":[7,0,6,0],
-"":[7,0,3,0],
-"":[7,0,8,0],
-"":[7,0,4,0],
-"":[7,0,6,0,0]
+"pages.html":[]
 };
