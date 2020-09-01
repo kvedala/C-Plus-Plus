@@ -160,7 +160,7 @@ Typical structure of a program:</h3>
 <div class="line"> </div>
 <div class="line"><span class="preprocessor">#include </span></div>
 <div class="line"><span class="comment"></span> </div>
-<div class="line"><span class="comment">/** </span></div>
+<div class="line"><span class="comment">/**</span></div>
 <div class="line"><span class="comment"> * @namespace &lt;check from other files in this repo&gt;</span></div>
 <div class="line"><span class="comment"> */</span></div>
 <div class="line"><span class="keyword">namespace </span>name {</div>
@@ -168,42 +168,44 @@ Typical structure of a program:</h3>
 <div class="line"><span class="comment">/**</span></div>
 <div class="line"><span class="comment"> * Class documentation</span></div>
 <div class="line"><span class="comment"> */</span></div>
-<div class="line"><span class="keyword">class </span>cls_name{</div>
+<div class="line"><span class="keyword">class </span>class_name {</div>
 <div class="line"> <span class="keyword">private</span>:</div>
-<div class="line">    <span class="keywordtype">int</span> var1;  <span class="comment">///&lt; short info of this variable</span></div>
-<div class="line"><span class="comment"></span>    <span class="keywordtype">char</span> *msg;  <span class="comment">///&lt; short info</span></div>
+<div class="line">    <span class="keywordtype">int</span> variable;  <span class="comment">///&lt; short info of this variable</span></div>
+<div class="line"><span class="comment"></span>    <span class="keywordtype">char</span> *message;  <span class="comment">///&lt; short info</span></div>
 <div class="line"><span class="comment"></span> </div>
 <div class="line"> <span class="keyword">public</span>:</div>
-<div class="line"> <span class="comment">// other members also documented as below</span></div>
+<div class="line">    <span class="comment">// other members also documented as below</span></div>
 <div class="line">}</div>
 <div class="line"><span class="comment"></span> </div>
 <div class="line"><span class="comment">/**</span></div>
-<div class="line"><span class="comment"> * Function documentation </span></div>
+<div class="line"><span class="comment"> * Function documentation</span></div>
 <div class="line"><span class="comment"> * @tparam T this is a one-line info about T</span></div>
 <div class="line"><span class="comment"> * @param param1 on-line info about param1</span></div>
 <div class="line"><span class="comment"> * @param param2 on-line info about param2</span></div>
 <div class="line"><span class="comment"> * @returns `true` if ...</span></div>
-<div class="line"><span class="comment"> * @returns `false` if ... </span></div>
+<div class="line"><span class="comment"> * @returns `false` if ...</span></div>
 <div class="line"><span class="comment"> */</span></div>
 <div class="line"><span class="keyword">template</span>&lt;<span class="keyword">class</span> T&gt;</div>
 <div class="line"><span class="keywordtype">bool</span> func(<span class="keywordtype">int</span> param1, T param2) {</div>
-<div class="line">    <span class="comment">// function statements here </span></div>
-<div class="line">    <span class="keywordflow">if</span>(<span class="comment">/*something bad*/</span>)</div>
+<div class="line">    <span class="comment">// function statements here</span></div>
+<div class="line">    <span class="keywordflow">if</span> (<span class="comment">/*something bad*/</span>) {</div>
 <div class="line">        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line">    }</div>
 <div class="line"> </div>
 <div class="line">    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line">}</div>
 <div class="line"><span class="comment"></span> </div>
 <div class="line"><span class="comment">/** Test function */</span></div>
-<div class="line"><span class="keywordtype">void</span> <a class="code" href="../../d6/d2c/caesar__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002">test</a>() {</div>
-<div class="line"> <span class="comment">/* some statements */</span></div>
-<div class="line"> assert(func(...) == ...); <span class="comment">// this ensures that the algorithm works as expected </span></div>
+<div class="line"><span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="../../d6/d2c/caesar__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002">test</a>() {</div>
+<div class="line">    <span class="comment">/* desciptions of the following test */</span></div>
+<div class="line">    assert(func(...) == ...); <span class="comment">// this ensures that the algorithm works as expected</span></div>
 <div class="line"> </div>
-<div class="line"> <span class="comment">// can have multiple checks</span></div>
+<div class="line">    <span class="comment">// can have multiple checks</span></div>
 <div class="line">}</div>
 <div class="line"><span class="comment"></span> </div>
 <div class="line"><span class="comment">/** Main function */</span></div>
 <div class="line"><span class="keywordtype">int</span> <a class="code" href="../../d3/d40/graph__coloring_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4">main</a>(<span class="keywordtype">int</span> argc, <span class="keywordtype">char</span> *argv[]) {</div>
+<div class="line">    <a class="code" href="../../d6/d2c/caesar__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002">test</a>(); <span class="comment">// execute the tests</span></div>
 <div class="line">    <span class="comment">// code here</span></div>
 <div class="line">    <span class="keywordflow">return</span> 0;</div>
 <div class="line">}</div>
@@ -252,18 +254,26 @@ Pull Requests</h2>
 <li>Checkout our <a href="https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/.github/pull_request_template.md">pull request template</a></li>
 </ul>
 <h3><a class="anchor" id="autotoc_md16"></a>
-cpplint</h3>
-<p>To see if <a href="https://github.com/cpplint/cpplint"><b>cpplint</b></a> is already installed, do:</p><ul>
-<li><code>cpplint --version</code> # currently returns "cpplint 1.4.4" If cpplint is ___not___ installed then do:</li>
-<li><code>python3 -m pip install cpplint</code> # If that does not work then try...</li>
-<li><code>py -m pip install cpplint</code> # If that does not work then try...</li>
-<li><code>pip install cpplint</code> Once cpplint is installed, test your file(s) with:</li>
-<li><code>cpplint --filter=-legal my_file.cpp my_other_file.cpp</code> # Fix any issues and try again.</li>
+Building Locally</h3>
+<p>Before submitting a pull request, build the code locally or using the convenient <a href="https://gitpod.io/#https://github.com/TheAlgorithms/C-Plus-Plus"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code" class="inline"/></a> service. </p><div class="fragment"><div class="line">cmake -B build -S .</div>
+</div><!-- fragment --><h3><a class="anchor" id="autotoc_md17"></a>
+Static Code Analyzer</h3>
+<p>We use <a href="https://clang.llvm.org/extra/clang-tidy/">clang-tidy</a> as a static code analyzer with a configuration in <a href="../../.clang-tidy">.clang-tidy</a>. </p><div class="fragment"><div class="line">clang-tidy --fix --quiet -p build subfolder/file_to_check.cpp --</div>
+</div><!-- fragment --><h3><a class="anchor" id="autotoc_md18"></a>
+Code Formatter</h3>
+<p><a href="https://clang.llvm.org/docs/ClangFormat.html"><b>clang-format</b></a> is used for code forrmating.</p><ul>
+<li>Installation (Only needs to be installed once.)<ul>
+<li>Mac (using home-brew): <code>brew install clang-format</code></li>
+<li>Mac (using macports): <code>sudo port install clang-10 +analyzer</code></li>
+<li>Windows (MSYS2 64-bit): <code>pacman -S mingw-w64-x86_64-clang-tools-extra</code></li>
+<li>Linux (Debian): <code>sudo apt-get install clang-format-10 clang-tidy-10</code></li>
 </ul>
-<p>The <a href="https://clang.llvm.org/docs/ClangFormat.html"><b>clang-format</b></a> tool can fix whitespace related <em>cpplint</em> issues.</p><ul>
-<li>On Macs only: <code>brew install clang-format</code> # Only needs to be installed once.</li>
-<li>All platforms: <code>clang-format -i -style="{IndentWidth: 4}" my_file.cpp</code></li>
+</li>
+<li>Running (all platforms): <code>clang-format -i -style="file" my_file.cpp</code></li>
 </ul>
+<h3><a class="anchor" id="autotoc_md19"></a>
+GitHub Actions</h3>
+<p>Enable GitHub Actions on your fork of the repository. After enabling it will execute <code>clang-tidy</code> and <code>clang-format</code> after every a push (not a commit). The result can create another commit if the actions made any changes on your behalf. Hence, it is better to wait and check the results of GitHub Actions after every push. Run <code>git pull</code> in your local clone if these actions made many changes in order to avoid merge conflicts.</p>
 <p>Most importantly,</p><ul>
 <li>Happy coding! </li>
 </ul>
