@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['vector_5fimportant_5ffunctions_2ecpp_2849',['vector_important_functions.cpp',['../d3/d61/vector__important__functions_8cpp.html',1,'']]],
-  ['vector_5fops_2ehpp_2850',['vector_ops.hpp',['../d8/d95/vector__ops_8hpp.html',1,'']]],
-  ['vigenere_5fcipher_2ecpp_2851',['vigenere_cipher.cpp',['../dd/d12/vigenere__cipher_8cpp.html',1,'']]]
+  ['ternary_5fsearch_2ecpp_2949',['ternary_search.cpp',['../dc/dfe/ternary__search_8cpp.html',1,'']]],
+  ['text_5fsearch_2ecpp_2950',['text_search.cpp',['../dc/db5/text__search_8cpp.html',1,'']]],
+  ['tower_5fof_5fhanoi_2ecpp_2951',['tower_of_hanoi.cpp',['../db/d3c/tower__of__hanoi_8cpp.html',1,'']]],
+  ['trie_5fmodern_2ecpp_2952',['trie_modern.cpp',['../dc/d93/trie__modern_8cpp.html',1,'']]],
+  ['trie_5ftree_2ecpp_2953',['trie_tree.cpp',['../d7/d83/trie__tree_8cpp.html',1,'']]]
 ];

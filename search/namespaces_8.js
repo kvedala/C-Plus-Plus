@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['layers_2688',['layers',['../d5/d2c/namespacelayers.html',1,'']]],
-  ['linear_5fprobing_2689',['linear_probing',['../d8/d89/namespacelinear__probing.html',1,'']]]
+  ['kadane_2765',['kadane',['../d6/d74/namespacekadane.html',1,'']]],
+  ['knapsack_2766',['Knapsack',['../d7/daf/namespace_knapsack.html',1,'']]]
 ];
