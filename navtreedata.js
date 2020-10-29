@@ -90,8 +90,7 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ],
-        [ "Typedefs", "namespacemembers_type.html", null ]
+        [ "Variables", "namespacemembers_vars.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -115,19 +114,20 @@ var NAVTREE =
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
-    ] ]
+    ] ],
+    [ "Examples", "examples.html", "examples" ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"d3/d26/binary__search__tree_8cpp.html#a1ca1e6aad9a9e45c1d21a7c8f61bccc3",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md38",
-"d7/d77/class_edge.html#aadbbb85298a21ecc2c17eeeadea65b01",
-"d9/dee/classdouble__linked__list.html#a4a68961af2c26e06c7b37f7de57d5e5f",
-"dc/d5a/rat__maze_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"df/dd5/binary__search_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089"
+"",
+"d3/d06/ode__semi__implicit__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f",
+"d5/d67/bayes__theorem_8cpp.html#a655bfe51252468d232dc639a340656ba",
+"d7/d65/shortest__common__supersequence_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa",
+"db/dd3/ode__forward__euler_8cpp.html",
+"de/dde/lowest__common__ancestor_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
